@@ -6,8 +6,6 @@ import FriendsList from "./FriendList/FriendList";
 import transactions from "../transactions.json";
 import TransactionHistory from "./TransactionHistory/TransactionHistory";
 
-
-
 const App = () => {
   return (
     <>
@@ -24,4 +22,4 @@ const App = () => {
   );
 };
 
-export default App
+export default App;
